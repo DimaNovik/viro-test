@@ -1,0 +1,7 @@
+{
+  "name": "ViroTest",
+  "displayName": "ViroTest",
+  "packagerOpts": {
+    "config": "metro.config.js"
+  }
+}
